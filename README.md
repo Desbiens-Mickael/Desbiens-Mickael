@@ -1,5 +1,5 @@
-### Bonjour👋, je m'appel Mickaël</br></br>
-Je suis développeur web junior
+<h1 align="center">Hello👋, je m'appel Mickaël développeur web junior</h1>
+<h2 align="center">Je vous souhaite la bienvenue sur mon profile Github</h2>
 
 
 <h3 align="center">Mon portfolio</h3>
