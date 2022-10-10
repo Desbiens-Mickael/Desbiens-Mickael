@@ -12,3 +12,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=desbiens-mickael&show_icons=true&locale=en&layout=compact&theme=algolia" alt="desbiens-mickael" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desbiens-mickael&show_icons=true&locale=en&theme=algolia" alt="desbiens-mickael" /></p>
+
+- Project 1 WCS Trombinoscope & project 2 : <br><br>
+ <a href='https://github.com/WildCodeSchool/2022-03-php-remote-1283-montbeliard-cite-libre'><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-1283-montbeliard-cite-libre&show_owner=false&theme=algolia" />
