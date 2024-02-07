@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, je m'appelle Mickael, je suis développeur web junior.</h1>
+<!-- <h1 align="center">Hello 👋, je m'appelle Mickael, je suis développeur web junior.</h1>
 <h3 align="center">Je vous souhaite la bienvenue sur mon profil Github</h3>
 
 <br/><h3 align="center">Mon portfolio</h3>
@@ -88,5 +88,73 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-1283-montbeliard-cite-libre&show_owner=false&border_color=d3b692&theme=codeSTACKr" />
   </a>
   </p>
+-->
+
+<h1 align="center">Hello 👋, je m'appelle Mickael, je suis développeur web junior.</h1>
+<h3 align="center">Je vous souhaite la bienvenue sur mon profil Github</h3>
+
+<br/>
+<h3 align="center">Mon portfolio</h3>
+<div align="center">
+  <a href="https://mickaeldesbiens.com" target="blank">🔗 Portfolio</a>
+</div>
+
+<br/>
+<h3 align="center">Langages et outils:</h3>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/><br>Bash
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/><br>Bootstrap
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><br>Docker
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><br>Figma
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br>Git
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://graphql.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/><br>GraphQL
+      </a>
+    </td>
+  </tr>
+  <!-- Ajoutez plus de lignes et de colonnes selon vos besoins -->
+</table>
+
+<br/>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=desbiens-mickael&show_icons=true&locale=fr&layout=compact&border_color=d3b692&bg_color=20,555555,000000&theme=codeSTACKr" alt="desbiens-mickael" />
+</div>
+
+<br/>
+<div align="center">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desbiens-mickael&show_icons=true&locale=fr&border_color=d3b692&bg_color=20,555555,000000&theme=codeSTACKr" alt="desbiens-mickael" />
+</div>
+
+<br/>
+<h3 align="center">Mon dernier projet</h3>
+<div align="center">
+  <a href='https://github.com/WildCodeSchool/2022-03-php-remote-1283-montbeliard-cite-libre'>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-1283-montbeliard-cite-libre&show_owner=false&border_color=d3b692&theme=codeSTACKr" />
+  </a>
+</div>
 
 
