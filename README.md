@@ -10,7 +10,7 @@
 <br/><h3 align="center">Langages et outils:</h3>
 <br/>
 <p align="center"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+  <a margin-left="0.5rem margin-right="0.5rem href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
