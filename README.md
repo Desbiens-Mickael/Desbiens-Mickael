@@ -87,13 +87,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=desbiens-mickael&show_icons=true&locale=fr&border_color=d3b692&bg_color=20,555555,000000&theme=codeSTACKr" alt="desbiens-mickael" />
 </p>
 
-<br/>
-<h3 align="center">Mon dernier projet</h3>
-<p align="center">
-  <a href='https://github.com/WildCodeSchool/2022-03-php-remote-1283-montbeliard-cite-libre'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remote-1283-montbeliard-cite-libre&show_owner=false&border_color=d3b692&theme=codeSTACKr" />
-  </a>
-</p>
-
 
 
